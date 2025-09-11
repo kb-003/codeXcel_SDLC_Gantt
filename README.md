@@ -3,6 +3,6 @@ Description: A web-based system designed for RHL Bakery that predicts pastry pro
 pastry, manages inventory efficiently, and tracks ingredient expiration to ensure optimal resource utilization
 
 Group members:
-Belando, Kyla 
-Espenida, Katrina Jasmine 
-Liray, Mark Angelo 
+Kyla Belando,
+Katrina Jasmine Espenida,
+Mark Angelo Liray
